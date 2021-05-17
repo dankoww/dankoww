@@ -63,5 +63,5 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoww&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankoww&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
