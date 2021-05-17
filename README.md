@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Daniel, 1st year student of Informatics and Econometrics 🎓</div>  
+## <div align="center">I'm Daniel, 1st year student of Informatics and Econometrics 🎓</div>  
   
 
 - 💻 Frontend Developer  
@@ -15,7 +15,7 @@
 - 💬 Ready for CRAZY ideas  
   
 
-- ✉️ Contact: [Email](mailto:koldan2001@gmail.com)  
+- ✉️ Reach me: [Click](mailto:koldan2001@gmail.com)  
   
 
 <br/>  
@@ -62,4 +62,3 @@
 </div>  
 
 <br />
-
